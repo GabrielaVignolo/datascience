@@ -2,7 +2,7 @@
 
 1: La edad al momento de la inscripción se encuentra relacionada con la probabilidad de graduación, siendo que los estudiantes más jóvenes tienen una mayor tasa de éxito académico.
 
-2: El género tiene incidencia en la tasa de graduación, con una mayor probabilidad de graduación en mujeres comparado con hombres.
+2: El género tiene incidencia en la tasa de graduación.
 
 
 Abstract
